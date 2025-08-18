@@ -59,6 +59,16 @@ Must include at least one special character from: @#$%&^*_+)(!
 
 Must be at least 10 characters long.
 
+📂 Project Structure
+
+E-Wallet-System/
+├─ Model/             # User and BankAccount classes
+├─ Service/           # Interfaces for account and validation
+├─ Service/impl/      # Implementation classes (AccountServiceImpl, ApplicationServiceImpl)
+├─ Main.java          # Entry point
+└─ README.md
+
+
 🔮 Future Work
 
 The E-Wallet System is a basic CLI-based application. The following improvements and features could be added in future versions:
