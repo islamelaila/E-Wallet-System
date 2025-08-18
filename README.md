@@ -1,6 +1,7 @@
 💳 E-Wallet System
 
-E-Wallet System is a digital wallet application built in Java with a command-line interface (CLI). It is designed to securely manage personal financial accounts and perform basic financial transactions such as registration, login, password management, balance checking, deposits, withdrawals, and money transfers.
+E-Wallet System is a digital wallet application built in Java with a command-line interface (CLI).
+It is designed to securely manage personal financial accounts and perform basic financial transactions such as registration, login, password management, balance checking, deposits, withdrawals, and money transfers.
 
 📌 Key Features
 
